@@ -9,10 +9,15 @@
     height: 300px;
 }
 
-.logo{
-    height: 300px;
-    width: 300px;
-   background-color: #9b59b6;
+.logo { 
+    background: url("../images/beachboys-logo-2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
 .main-section-column{
@@ -30,5 +35,6 @@ header{
 }
 
 footer{
-    background-color: #9b59b6;
+    background-color: #D7FAAA;
+    height: 300px;
 }

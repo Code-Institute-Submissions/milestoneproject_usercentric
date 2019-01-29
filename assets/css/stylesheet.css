@@ -6,11 +6,18 @@
 .bg-color-title{
     color: #C5CAF6;
     background-color: #F7E431;
-    
+    height: 300px;
 }
 
 .logo{
     height: 300px;
     width: 300px;
    background-color: #9b59b6;
+}
+
+
+
+
+header{
+    margin: 0;
 }

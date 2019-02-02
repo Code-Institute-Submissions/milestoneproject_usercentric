@@ -6,7 +6,7 @@
 .bg-color-title{
     color: #C5CAF6;
     background-color: #F7E431;
-    height: 300px;
+    height: 100%;
 }
 
 .ul-menu-color-home{
@@ -29,6 +29,7 @@
 }
 
 
+
 /*------------------------------------logos*/
 
 .logo { 
@@ -42,17 +43,68 @@
     -webkit-transition: all .5s ease-in-out;
 }
 
-
-
 /*------------------------------------header*/
 
 header{
     margin: 0;
 }
 
+.heading{
+    text-align: center;
+    
+}
+#nav{
+    margin:0;
+}    
 
+#nav li{
+    padding: 0;
+}
+
+.menuitem {
+    height: 100px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
+    height: 120px;
+}
+
+.menuitem a i{
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+.menuitem span{
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.bg-color-title{
+    padding: 95px;
+    height: 100%;
+    
+}
 /*------------------------------------footer*/
+
+
 footer{
-    background-color: #D7FAAA;
-    height: 300px;
+   background-color: #D7FAAA;
+    height: 300px; 
 }

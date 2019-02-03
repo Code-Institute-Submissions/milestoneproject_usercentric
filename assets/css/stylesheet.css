@@ -116,7 +116,10 @@ footer{
     min-height: 120px;
     margin: 0;
 }
-
+.general{
+    position: center;
+    
+}
 .social-links {
     padding-bottom: 15px;
     padding-top: 15px;
@@ -138,6 +141,13 @@ footer{
       -o-transition: all 0.35s ease-in-out;
 }
 
+.contact-footer:hover{
+    color: #e84610;
+    transition: all 0.35s ease-in-out;
+     -moz-transition: all 0.35s ease-in-out;
+      -webkit-transition: all 0.35s ease-in-out;
+      -o-transition: all 0.35s ease-in-out;
+}
 
 .social-links li a i:hover{
    background: #e84610;

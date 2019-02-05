@@ -4,17 +4,33 @@
 /*------------------------------------colours*/
 
 .bg-color-title{
-    color: #C5CAF6;
     background-color: #F7E431;
     height: 100%;
+
+}
+
+.bg-color-about{
+    background-color: #FA7720;
+    height: 100%; 
+}
+
+
+.bg-color-media{
+    background-color: #9AFF92;
+    height: 100%; 
+}
+
+.bg-color-contact{
+    background-color: #FD4A44;
+    height: 100%; 
 }
 
 .ul-menu-color-home{
-      background-color: #FA7720;
+      background-color: #99CCFF;
 }
 
 .ul-menu-color-about{
-     background-color: #99CCFF
+     background-color: #FA7720
 }
 .ul-menu-color-media{
     background-color: #9AFF92
@@ -108,10 +124,23 @@ header{
 }
 
 .bg-color-title{
-    padding: 95px;
-    height: 100%;
+ padding: 95px;
 }
 
+.bg-color-about{
+    padding: 95px;
+
+}
+
+.bg-color-media{
+    padding: 95px;
+
+}
+
+.bg-color-contact{
+    padding: 95px;
+
+}
 
 /*------------------------------------footer*/
 
@@ -166,3 +195,12 @@ footer{
       -o-transition: all 0.35s ease-in-out;
 }
 
+
+
+/*------------------------------------footer*/
+
+@media(min-width: 300px) {
+.bg-color-contact{
+    height: 100%;
+  }
+}

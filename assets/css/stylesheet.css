@@ -24,7 +24,7 @@
 }
 
 .main-section-column{
-   background-color: #676767;
+   background-color: #FAF8AA;
    width: 100%;
 }
 
@@ -50,7 +50,6 @@
     height: 120px;
 }
 
-
 /*------------------------------------header*/
 
 header{
@@ -59,8 +58,10 @@ header{
 
 .heading{
     text-align: center;
-    font-family: 'Coiny' cursive;
-    color: #fafafa;
+    font-family: 'Permanent Marker', cursive;
+    color: #99CCFF;
+    font-weight:700;
+    font-size: 80px;
 }
 
 #nav{
@@ -115,7 +116,7 @@ header{
 /*------------------------------------footer*/
 
 footer{
-    background-color: #D7FAAA;
+    background-color: #9D9DA2;
     min-height: 120px;
     margin: 0;
 }
@@ -164,3 +165,4 @@ footer{
       -webkit-transition: all 0.35s ease-in-out;
       -o-transition: all 0.35s ease-in-out;
 }
+

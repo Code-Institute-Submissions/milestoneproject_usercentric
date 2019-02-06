@@ -72,16 +72,13 @@ header{
     margin: 0;
 }
 
-.heading{
-    text-align: center;
-    color: #99CCFF;
-    
-}
-
 .page-heading{
     font-size: 60px;
     font-family: 'Permanent Marker', cursive;
+    color: #99CCFF;
+    text-align: center;
 }
+
 #nav{
     margin:0;
 }    
@@ -143,6 +140,32 @@ header{
     padding: 95px;
 
 }
+/*------------------------------------section*/
+
+.video-clip-info{
+    font-family: cursive;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    	font-size: 25px;
+}
+
+.video-wrapper {
+    display: block;
+    margin: 0 auto;
+	position: relative;
+	text-align: center;
+
+}
+
+
+
+.video-wrapper-iframe {
+ position: relative;
+  width: auto;
+  height: auto;
+
+}
 
 /*------------------------------------footer*/
 
@@ -150,9 +173,6 @@ footer{
     background-color: #9D9DA2;
     min-height: 120px;
     margin: 0;
-}
-.general{
-    position: center;
 }
 
 .social-links {

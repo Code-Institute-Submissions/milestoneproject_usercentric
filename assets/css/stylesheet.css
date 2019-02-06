@@ -74,13 +74,13 @@ header{
 
 .heading{
     text-align: center;
-    font-family: 'Permanent Marker', cursive;
     color: #99CCFF;
     
 }
 
 .page-heading{
     font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
 }
 #nav{
     margin:0;

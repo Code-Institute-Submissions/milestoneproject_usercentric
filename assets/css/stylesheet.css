@@ -76,10 +76,12 @@ header{
     text-align: center;
     font-family: 'Permanent Marker', cursive;
     color: #99CCFF;
-    font-weight:700;
-    font-size: 80px;
+    
 }
 
+.page-heading{
+    font-size: 60px;
+}
 #nav{
     margin:0;
 }    

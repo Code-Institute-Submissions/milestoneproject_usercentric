@@ -67,16 +67,22 @@
 }
 
 /*------------------------------------header*/
+.header{
+    min-height: 360px;
+}
+
 
 header{
     margin: 0;
 }
 
 .page-heading{
-    font-size: 60px;
+    font-size: 37px;
     font-family: 'Permanent Marker', cursive;
     color: #99CCFF;
     text-align: center;
+    height: 100%
+    
 }
 
 #nav{
@@ -155,6 +161,7 @@ header{
     margin: 0 auto;
 	position: relative;
 	text-align: center;
+	padding-bottom: 25px;
 
 }
 

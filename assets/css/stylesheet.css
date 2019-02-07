@@ -3,52 +3,54 @@
 
 /*------------------------------------colours*/
 
-.bg-color-title{
+.bg-color-title {
     background-color: #F7E431;
     height: 100%;
 
 }
 
-.bg-color-about{
+.bg-color-about {
     background-color: #FA7720;
-    height: 100%; 
+    height: 100%;
 }
 
 
-.bg-color-media{
+.bg-color-media {
     background-color: #9AFF92;
-    height: 100%; 
+    height: 100%;
 }
 
-.bg-color-contact{
+.bg-color-contact {
     background-color: #FD4A44;
-    height: 100%; 
+    height: 100%;
 }
 
-.ul-menu-color-home{
-      background-color: #99CCFF;
+.ul-menu-color-home {
+    background-color: #99CCFF;
 }
 
-.ul-menu-color-about{
-     background-color: #FA7720
+.ul-menu-color-about {
+    background-color: #FA7720
 }
-.ul-menu-color-media{
+
+.ul-menu-color-media {
     background-color: #9AFF92
 }
-.ul-menu-color-contact{
+
+.ul-menu-color-contact {
     background-color: #FD4A44
 }
 
-.main-section-column{
-   background-color: #FAF8AA;
-   width: 100%;
+.main-section-column {
+    background-color: #FAF8AA;
+    width: 100%;
 }
 
 
 
 /*------------------------------------logos*/
 
-.logo { 
+.logo {
     background: url("../images/beachboys-logo-2.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -61,35 +63,35 @@
 
 /*---------------hover.css*/
 
-.hvr-sweep-to-bottom:before{
-    background: #F7E431 ;
+.hvr-sweep-to-bottom:before {
+    background: #F7E431;
     height: 120px;
 }
 
 /*------------------------------------header*/
-.header{
+
+.header {
     min-height: 360px;
 }
 
 
-header{
+header {
     margin: 0;
 }
 
-.page-heading{
+.page-heading {
     font-size: 37px;
     font-family: 'Permanent Marker', cursive;
     color: #99CCFF;
     text-align: center;
     height: 100%
-    
 }
 
-#nav{
-    margin:0;
-}    
+#nav {
+    margin: 0;
+}
 
-#nav li{
+#nav li {
     padding: 0;
 }
 
@@ -106,14 +108,14 @@ header{
     height: 120px;
 }
 
-.menuitem a i{
+.menuitem a i {
     padding-top: 22px;
     display: block;
     color: #fafafa;
     font-size: 26px;
 }
 
-.menuitem span{
+.menuitem span {
     display: block;
     width: 100%;
     padding-top: 5px;
@@ -128,49 +130,50 @@ header{
     display: inline-block;
 }
 
-.bg-color-title{
- padding: 95px;
+.bg-color-title {
+    padding: 95px;
 }
 
-.bg-color-about{
+.bg-color-about {
     padding: 95px;
 
 }
 
-.bg-color-media{
+.bg-color-media {
     padding: 95px;
 
 }
 
-.bg-color-contact{
+.bg-color-contact {
     padding: 95px;
 
 }
+
 /*------------------------------------media page*/
 
-.video-clip-info{
+.video-clip-info {
     font-family: cursive;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 15px;
-    	font-size: 25px;
+    font-size: 25px;
 }
 
 .video-wrapper {
     display: block;
     margin: 0 auto;
-	position: relative;
-	text-align: center;
-	padding-bottom: 25px;
+    position: relative;
+    text-align: center;
+    padding-bottom: 25px;
 
 }
 
 
 
 .video-wrapper-iframe {
- position: relative;
-  width: auto;
-  height: auto;
+    position: relative;
+    width: auto;
+    height: auto;
 
 }
 
@@ -178,22 +181,46 @@ header{
 
 /*------------------------------------about page*/
 
+.brian-wilson {
+    background: url("../images/brian-wilson.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-height: 400px;
 
-
-.brian-wilson{
-    
 }
 
-.al-jardine{
-    
+.al-jardine {
+    background: url("../images/al-jardine.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
-.mike-love{
-    
+.mike-love {
+    background: url("../images/mike-love.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
-.bruce-johnston{
-    
+.bruce-johnston {
+    background: url("../images/bruce-johnston.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
 
@@ -203,7 +230,7 @@ header{
 
 /*------------------------------------footer*/
 
-footer{
+footer {
     background-color: #9D9DA2;
     min-height: 120px;
     margin: 0;
@@ -225,30 +252,30 @@ footer{
     color: #fafafa;
     background: #8f8f8f;
     transition: all 0.35s ease-in-out;
-     -moz-transition: all 0.35s ease-in-out;
-      -webkit-transition: all 0.35s ease-in-out;
-      -o-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
-.contact-footer:hover{
+.contact-footer:hover {
     color: #e84610;
     transition: all 0.35s ease-in-out;
-     -moz-transition: all 0.35s ease-in-out;
-      -webkit-transition: all 0.35s ease-in-out;
-      -o-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
-.social-links li a i:hover{
-   background: #e84610;
-    
+.social-links li a i:hover {
+    background: #e84610;
+
 }
 
-.booking:hover{
+.booking:hover {
     color: #e84610;
     transition: all 0.35s ease-in-out;
-     -moz-transition: all 0.35s ease-in-out;
-      -webkit-transition: all 0.35s ease-in-out;
-      -o-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
 
@@ -256,7 +283,7 @@ footer{
 /*------------------------------------footer*/
 
 @media(min-width: 300px) {
-.bg-color-contact{
-    height: 100%;
-  }
+    .bg-color-contact {
+        height: 100%;
+    }
 }

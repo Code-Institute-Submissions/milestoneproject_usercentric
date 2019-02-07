@@ -180,13 +180,19 @@ header {
 
 
 /*------------------------------------about page*/
+.band-member{
+    margin-bottom:15px;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right:20px;
+    min-height: 400px
+}
 
 .brian-wilson {
     background: url("../images/brian-wilson.jpg");
     background-position: left;
     background-repeat: no-repeat;
-    background-size: auto;
-    min-height: 400px;
+    background-size: contain;
 
 }
 
@@ -194,33 +200,26 @@ header {
     background: url("../images/al-jardine.jpg");
     background-position: right;
     background-repeat: no-repeat;
-    background-size: auto;
-    min-height: 360px;
+    background-size: contain;
     transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+
 }
 
 .mike-love {
     background: url("../images/mike-love.jpg");
     background-position: left;
     background-repeat: no-repeat;
-    background-size: auto;
-    min-height: 360px;
+    background-size: contain;
     transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+
 }
 
 .bruce-johnston {
     background: url("../images/bruce-johnston.jpg");
     background-position: right;
     background-repeat: no-repeat;
-    background-size: auto;
-    min-height: 360px;
+    background-size: contain;
     transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
 }
 
 

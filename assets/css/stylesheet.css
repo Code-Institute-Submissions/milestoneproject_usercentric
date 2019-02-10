@@ -188,6 +188,7 @@ header {
 
 .band-info{
     text-align: center;
+    margin: 25px;
 }
 
 /*------------------------------------contact page*/
@@ -201,7 +202,8 @@ text-align: center;
 }
 
 .form-group{
-    width: 75%;
+    padding-left: 40px;
+    padding-right: 40px;
 
 }
 

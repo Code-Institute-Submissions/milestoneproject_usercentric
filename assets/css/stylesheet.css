@@ -227,7 +227,25 @@ header {
     text-align: center;
 }
 
+/*------------------------------------contact page*/
 
+
+
+form{
+    margin: 30px;
+text-align: center;
+    
+}
+
+.form-group{
+    width: 75%;
+
+}
+
+.contact-text{
+    text-align: center;
+    padding-top: 25px;
+}
 
 /*------------------------------------footer*/
 

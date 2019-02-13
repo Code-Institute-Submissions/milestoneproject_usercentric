@@ -5,24 +5,24 @@
 
 .bg-color-title {
     background-color: #F7E431;
-    height: 100%;
+
 
 }
 
 .bg-color-about {
     background-color: #FA7720;
-    height: 100%;
+
 }
 
 
 .bg-color-media {
     background-color: #9AFF92;
-    height: 100%;
+
 }
 
 .bg-color-contact {
     background-color: #FD4A44;
-    height: 100%;
+
 }
 
 .ul-menu-color-home {
@@ -43,10 +43,13 @@
 
 .main-section-column {
     background-color: #FAF8AA;
-    width: 100%;
+
 }
 
+.wrapperAbout {
+     background-color: #FAF8AA;
 
+}
 
 /*------------------------------------logos*/
 
@@ -83,8 +86,6 @@ header {
     font-size: 37px;
     font-family: 'Permanent Marker', cursive;
     color: #99CCFF;
-    text-align: center;
-    height: 100%
 }
 
 #nav {
@@ -183,20 +184,21 @@ header {
 
 
 
-
-
-
-.band-info{
+.band-info {
     text-align: center;
-    margin: 25px;
+    border-width: 2px;
+    border-color: black;
 }
+
+
 
 /*------------------------------------contact page*/
 
 
 
 form{
-    margin: 30px;
+
+
 text-align: center;
     
 }

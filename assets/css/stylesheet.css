@@ -5,25 +5,20 @@
 
 .bg-color-title {
     background-color: #F7E431;
-
-
 }
 
 .bg-color-about {
     background-color: #FA7720;
-
 }
-
 
 .bg-color-media {
     background-color: #9AFF92;
-
 }
 
 .bg-color-contact {
     background-color: #FD4A44;
-
 }
+
 
 .ul-menu-color-home {
     background-color: #99CCFF;
@@ -43,8 +38,8 @@
 
 .main-section-column {
     background-color: #FAF8AA;
-
 }
+
 
 .wrapperAbout {
      background-color: #FAF8AA;
@@ -86,6 +81,8 @@ header {
     font-size: 37px;
     font-family: 'Permanent Marker', cursive;
     color: #99CCFF;
+    display: table;
+    margin: 0 auto;
 
 }
 
@@ -170,8 +167,6 @@ header {
 
 }
 
-
-
 .video-wrapper-iframe {
     position: relative;
     width: auto;
@@ -180,18 +175,12 @@ header {
 }
 
 
-
 /*------------------------------------about page*/
 
 img{
-
-
+    width: 100%;
 }
-
-
-
-
-
+    
 /*------------------------------------contact page*/
 
 

@@ -149,6 +149,11 @@ header {
 
 }
 
+
+
+
+
+
 /*------------------------------------media page*/
 
 .video-clip-info {
@@ -209,10 +214,11 @@ text-align: center;
     padding-top: 25px;
 }
 
+
 /*------------------------------------footer*/
 
 footer {
-    background-color: #9D9DA2;
+    background-color: #99CCFF;
     min-height: 120px;
     margin: 0;
 }
@@ -247,12 +253,12 @@ footer {
 }
 
 .social-links li a i:hover {
-    background: #e84610;
+    background: #F7E431;
 
 }
 
 .booking:hover {
-    color: #e84610;
+    color: #F7E431;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;

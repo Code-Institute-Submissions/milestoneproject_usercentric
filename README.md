@@ -88,6 +88,53 @@ I put these in and realised not all the social media links were not appropriate 
 I also found throughout my research that the beachboys had thier own website which I then incorperated as an extra link.
 
 
+The about page had issue when resizing the screen from desktop to mobile the text would overlap the picture and it was not clear or professional.
+I eventually realised this was an issue with my rows and columns and amended them accordingly which then in turn allowed me to restructure
+the whole page so there was more screen real estate being utilised  rather than having everything down the center. 
+
+I tested this regularly as I input different picures and texts to ensure the the transisiton from desktop to mobile was smooth
+and looked professiona, I also asked my peers to see if the website had an issue when they used it.
+
+The media page was tested in a similar way to ensure the media played smoothly when clicking play and there was no issure when resizing the screen.
+intially I had problems with the screen window not showing the full video as though it was zoomed in on one part of the video, 
+I resolved this by testing the html and css by trial and error to ensure the size of the screen was responsive to the web page 
+regardless of its size.
+
+the contact page was tested by resizing the screen to ensure all the input fields and the labels resized appropriatly which was not the case
+initially. To start with some of the labels would move and sit above the input fields however this was rectified with the columns being tweaekd.
+the next part of testing was on the inputform  to ensure the user could only put the correct type of information into the correct field.
+
+The CSS across the whole site has been amended on a number of ocassions. 
+I had issued with giving things elemnts 100% width however this then over ruled other elements. I then amended this by butting my rows in a wrapper
+to enable me to apply color schemes across the main section of each pagerather than targeting every row.
+
+Gernealy speaking I had issued with my grid system with some confusuin around the rows and columns  where by i was putting a row within a row 
+which was causing the background not to cover the width of the row  or justfill a column  and leave the other columns blank. Once I 
+had got a better understanding I went though all my web pages to ensure hte rows and coulmns were all in place to make it much clearer and enable
+more efficient management of each page.
+
+
+Deployment
+
+
+Credits and media
+
+
+I have used Wikipedia.com for the information about the band members which has been labeled within the code
+I used youtube.com for the video which has been labeled within the code
+I used soundcloud.com for the audio clip which has been labeled within the code
+
+Acknowledgement
+
+The inspiration for this project came from the mini resume project.
+
+
+
+
+
+
+
+
 
 
 

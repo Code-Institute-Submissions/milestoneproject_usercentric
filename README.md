@@ -3,7 +3,7 @@ that it fulfills. It should also describe the functionality of the project, as w
 Detail how the project was deployed and tested and if some of the work was based on other code, 
 explain what was kept and how it was changed to fit your need. A project submitted without a README.md file will FAIL.
 
-User Centric Frontend Development Milestone Project - The Beach Boys
+*User Centric Frontend Development Milestone Project - The Beach Boys*
 
 The website was designed to promote the 60's band the Beachboys and their return to performing. The website aims to provide new and old fans with 
 with a little bit of information about the members. The website offers a sound clip that lets users listen to some of the beachboys greatest hits
@@ -14,32 +14,32 @@ The overall aim is to have an easy to navigate website that was designed desktop
 and book the band for an event.
 
 
-UX
+*UX*
 
 The UX has been designed for desktop first with the aim of making it easy for all users ot navigate and access the content they want.
 
 I have provided a number of user stories below:
 
-As a user who has not heard of the Beachboys before I want to be able to find out about the band members
+* As a user who has not heard of the Beachboys before I want to be able to find out about the band members
 
-As a user who has not heard of the Beachboys before I want to be able to listen to some of thier music
+* As a user who has not heard of the Beachboys before I want to be able to listen to some of thier music
 
-As a user who is a fan of the Beachboys before I want to be able to listen to some of thier music
+* As a user who is a fan of the Beachboys before I want to be able to listen to some of thier music
 
-As a user who is a fan of the Beachboys before I want to be able to book the Beachboys for a wedding/christmas party/ event
+* As a user who is a fan of the Beachboys before I want to be able to book the Beachboys for a wedding/christmas party/ event
 
-As a desktop user I want to be able to navigate the website easily so I and find the information i want with ease
+* As a desktop user I want to be able to navigate the website easily so I and find the information i want with ease
 
-As a mobile user I want to be able to navigate the website easily so I and find the information i want with ease
+* As a mobile user I want to be able to navigate the website easily so I and find the information i want with ease
 
-As a fan  I want to be able to navigate to be able to find thier social media pages so I can follow them on social media
+* As a fan  I want to be able to navigate to be able to find thier social media pages so I can follow them on social media
 
 
-I have also included some mock ups for the initial planning phase of the website
+* I have also included some mock ups for the initial planning phase of the website
 
 Insert mockups
 
-Features
+*Features*
 
 The navigation bar allows users to navigate to any page without needing to use the back button. 
 This feature is clear and users should be able to navigate around the website with ease.
@@ -54,20 +54,20 @@ the footer provides links to the contact page and the social media links of the 
 with the bands other web pages.
 
 
-Technologies used
+*Technologies used*
 
-used HTML5 and CSS3
+* used HTML5 and CSS3
 
-bootstrap - https://getbootstrap.com/docs/3.3/https://getbootstrap.com/docs/3.3/
+* bootstrap - https://getbootstrap.com/docs/3.3/https://getbootstrap.com/docs/3.3/
 used bootstrap primarily for the grid system
 
-cdnjs - https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css
+* cdnjs - https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css
 used this to apply the hover to aspects of the website
 
-google fonts - https://fonts.google.com 
+* google fonts - https://fonts.google.com 
 used google fonts to apply fonts to the text within the website
 
-Testing
+*Testing*
 
 I completed much of my testing as I built the website up.
 
@@ -114,17 +114,17 @@ had got a better understanding I went though all my web pages to ensure hte rows
 more efficient management of each page.
 
 
-Deployment
+*Deployment*
 
 
-Credits and media
+*Credits and media*
 
 
-I have used Wikipedia.com for the information about the band members which has been labeled within the code
-I used youtube.com for the video which has been labeled within the code
-I used soundcloud.com for the audio clip which has been labeled within the code
+* I have used Wikipedia.com for the information about the band members which has been labeled within the code
+* I used youtube.com for the video which has been labeled within the code
+* I used soundcloud.com for the audio clip which has been labeled within the code
 
-Acknowledgement
+*Acknowledgement*
 
 The inspiration for this project came from the mini resume project.
 

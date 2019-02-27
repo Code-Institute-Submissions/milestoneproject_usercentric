@@ -1,9 +1,4 @@
-Write a README.md file for your project that explains what the project does and the need 
-that it fulfills. It should also describe the functionality of the project, as well as the technologies used. 
-Detail how the project was deployed and tested and if some of the work was based on other code, 
-explain what was kept and how it was changed to fit your need. A project submitted without a README.md file will FAIL.
-
-*User Centric Frontend Development Milestone Project - The Beach Boys*
+# User Centric Frontend Development Milestone Project - The Beach Boys
 
 The website was designed to promote the 60's band the Beachboys and their return to performing. The website aims to provide new and old fans with 
 with a little bit of information about the members. The website offers a sound clip that lets users listen to some of the beachboys greatest hits

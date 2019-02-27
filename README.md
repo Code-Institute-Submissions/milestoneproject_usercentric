@@ -92,7 +92,7 @@ and looked professiona, I also asked my peers to see if the website had an issue
 The media page was tested in a similar way to ensure the media played smoothly when clicking play and there was no issure when resizing the screen.
 intially I had problems with the screen window not showing the full video as though it was zoomed in on one part of the video, 
 I resolved this by testing the html and css by trial and error to ensure the size of the screen was responsive to the web page 
-regardless of its size. \
+regardless of its size. 
 
 the contact page was tested by resizing the screen to ensure all the input fields and the labels resized appropriatly which was not the case
 initially. To start with some of the labels would move and sit above the input fields however this was rectified with the columns being tweaekd.
